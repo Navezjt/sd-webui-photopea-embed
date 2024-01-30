@@ -1,0 +1,1 @@
+https://github.com/yankooliveira/sd-webui-photopea-embed
